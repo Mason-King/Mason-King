@@ -1,5 +1,7 @@
 👋 - Hi there, Im Mason
+
 👀 - Freelance Developer
+
 👨‍💻 - https://masonking.dev/
 
 About me:
